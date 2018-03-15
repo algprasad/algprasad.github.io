@@ -1,1 +1,1 @@
-Details of my projects and stuff I learn
+First project coming up
