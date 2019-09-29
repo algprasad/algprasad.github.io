@@ -1,1 +1,1 @@
-First project coming up
+Projects
